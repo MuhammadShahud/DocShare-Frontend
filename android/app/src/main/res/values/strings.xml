@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Docshr</string>
+         <string name="facebook_app_id">1693689294173183</string>
+    <string name="facebook_client_token">d90b2a0dd62e700faa1ce852a75fe0a5</string>
+    <string name="fb_login_protocol_scheme">fb1693689294173183</string>
+
+
+</resources>

@@ -1,0 +1,60 @@
+export const IS_LOGIN = 'IS_LOGIN'
+export const GET_USER_DATA = 'GET_USER_DATA'
+export const SHOW_LOADING = "SHOW_LOADING"
+export const HIDE_LOADING = "HIDE_LOADING"
+export const LOGOUT = "LOGOUT"
+
+export const GET_POST = "GET_POST"
+export const RESET_POST = "RESET_POST"
+export const DELETE_POST = "DELETE_POST"
+
+
+export const GET_FRIENDS = "GET_FRIENDS"
+export const GET_USER = "GET_USER"
+export const RESET_USER = "RESET_USER"
+
+export const UPDATE_CHAT_MESSAGES = 'UPDATE_CHAT_MESSAGES';
+export const RESET_CHAT = 'RESET_CHAT';
+export const GET_CHATS_MESSAGES = 'GET_CHATS_MESSAGES';
+export const GET_CHAT_HEADS = 'GET_CHAT_HEADS';
+export const GET_GROUPCHAT_HEADS = 'GET_GROUPCHAT_HEADS';
+export const GET_GROUPCHATS_MESSAGES = 'GET_GROUPCHATS_MESSAGES';
+export const GET_GROUPS = 'GET_GROUPS';
+export const RESET_GROUPS = 'RESET_GROUPS';
+export const DELETE_GROUP = 'DELETE_GROUPS';
+export const UPDATE_GROUPCHAT_MESSAGES = 'UPDATE_GROUPCHAT_MESSAGES';
+export const TOKEN_DETAILS = 'TOKEN_DETAILS';
+
+export const GET_FILES = 'GET_FILES';
+export const GET_RECENT_FILES = 'GET_RECENT_FILES';
+export const RESET_FILES = 'RESET_FILES';
+export const DELETE_FILE = 'DELETE_FILE';
+export const GET_COMMENTS = 'GET_COMMENTS';
+export const RESET_COMMENTS = 'RESET_COMMENTS';
+export const UPDATE_COMMENTS = 'UPDATE_COMMENTS';
+export const DELETE_COMMENTS = 'DELETE_COMMENTS';
+
+export const GET_NOTIFICATION = 'GET_NOTIFICATION';
+export const RESET_NOTIFICATION = 'RESET_NOTIFICATION';
+export const UPDATE_NOTIFICATION = 'UPDATE_NOTIFICATION';
+
+
+export const GET_PLANS = 'GET_PLANS';
+export const RESET_PLANS = 'RESET_PLANS';
+export const GET_USERPLANS = 'GET_USERPLANS';
+export const GET_CARDS = 'GET_CARDS';
+export const UPDATE_PLANDETAIL = 'UPDATE_PLANDETAIL';
+
+export const DELETE_CARD = 'DELETE_CARD';
+
+export const TERMS = 'TERMS';
+
+
+
+
+
+
+
+
+
+
